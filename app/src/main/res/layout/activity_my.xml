@@ -28,4 +28,7 @@
         android:name="app.z0nen.slidemenu.NavigationDrawerFragment"
         tools:layout="@layout/fragment_navigation_drawer" />
 
+
+//hhjkjkjkjkjkjkjkkkjkjkkj//
+
 </android.support.v4.widget.DrawerLayout>
