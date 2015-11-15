@@ -1,7 +1,7 @@
 package app.z0nen.Service;
 
 /**
- * Created by arniskl on 09.12.2014..
+ * Created by arniskl on 09.12.20155..
  */
 public class StoreRequest
 {
