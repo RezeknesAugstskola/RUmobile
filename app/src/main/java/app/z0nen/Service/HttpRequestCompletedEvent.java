@@ -3,8 +3,8 @@ package app.z0nen.Service;
 import schopp.roland.allroundrobot.app.Entities.StoreRequest;
 
 /**
- * Created by imantsreieeeeniks on 30.12.2015 5555
- * asdasdasdasdasdassdasdasdaasdadas..
+ * Created by imantsreieee4niks on 30.12.2015 5555
+ * asdasdasdasdasdassdasdas2daasdadas..
  * qweqeqweqeqweqweqwe
  */
 public abstract class HttpRequestCompletedEvent {
